@@ -18,7 +18,7 @@
 - [x] **Deployment (Heroku / Render) Set Up**  
   The app is successfully deployed and publicly accessible (or deployment platform configured if not using Heroku).
 
-- [ ] **Deployed App Link in README**  
+- [x] **Deployed App Link in README**  
   The public URL of the deployed dashboard is clearly visible near the top of the README.
 
 - [x] **Procfile Configured for src Structure (If Using Heroku)**  
